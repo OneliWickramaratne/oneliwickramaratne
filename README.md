@@ -2,13 +2,11 @@
   <h1 align="center">👋 Hi there!</h1>
 </p>
 
----
 
 ## 💡 Tech-minded. People-oriented. Driven by growth.
 
 I'm a **Computer Science student** passionate about **DevOps**, **Business Analysis**, and the practical side of technology. I enjoy working in collaborative environments, understanding real user needs, and building solutions that are **simple**, **structured**, and **efficient**.
 
----
 
 ## 🌱 Currently Learning
 
@@ -18,7 +16,6 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 - **Kubernetes**
 - **CI/CD Pipelines**
 
----
 
 ## 🚀 What I’m About
 
@@ -28,7 +25,6 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 - 💬 Strong communicator who values teamwork, structure, and clarity  
 - 🤍 Passionate about creating purposeful tech that makes life easier
 
----
 
 ## 🧰 Tools & Technologies
 
@@ -37,7 +33,7 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 
 ### Backend & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=dotnet,azure&perline=4)](https://skillicons.dev)  
-*Experience with: ASP.NET, Entity Framework*
+
 
 ### Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman&perline=4)](https://skillicons.dev)
