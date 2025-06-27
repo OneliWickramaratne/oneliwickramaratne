@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Oneli Wickramaratne
+<p align="center">
+  <h1 align="center">👋 Hi there!</h1>
+</p>
 
 ---
 
@@ -9,7 +11,8 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 ---
 
 ## 🌱 Currently Learning
--**PowerBI**
+
+- **Power BI**
 - **Linux**
 - **Docker**
 - **Kubernetes**
@@ -34,15 +37,13 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 
 ### Backend & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=dotnet,azure&perline=4)](https://skillicons.dev)  
+*Experience with: ASP.NET, Entity Framework*
 
 ### Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman&perline=4)](https://skillicons.dev)
-
----
 
 <!-- GitHub Stats (Optional)
 ![Oneli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OneliWickramaratne&show_icons=true&theme=calm)
 -->
 
-<!-- You can add pinned repositories or project highlights here later if needed -->
-
+<!-- You can add pinned repositories or project highlights here later -->
