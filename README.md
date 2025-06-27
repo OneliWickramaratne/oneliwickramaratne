@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Oneli Wickramaratne
+# 👋 Hi there, I'm Oneli Wickramaratne
 
 ---
 
-# 💡 Tech-minded. People-oriented. Driven by growth.
+## 💡 Tech-minded. People-oriented. Driven by growth.
 
 I'm a **Computer Science student** passionate about **DevOps**, **Business Analysis**, and the practical side of technology. I enjoy working in collaborative environments, understanding real user needs, and building solutions that are **simple**, **structured**, and **efficient**.
 
