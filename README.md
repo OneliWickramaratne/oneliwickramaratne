@@ -9,7 +9,7 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 ---
 
 ## 🌱 Currently Learning
-
+-**PowerBI**
 - **Linux**
 - **Docker**
 - **Kubernetes**
@@ -30,11 +30,10 @@ I'm a **Computer Science student** passionate about **DevOps**, **Business Analy
 ## 🧰 Tools & Technologies
 
 ### Languages  
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,sql,c&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,c&perline=8)](https://skillicons.dev)
 
 ### Backend & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=dotnet,azure&perline=4)](https://skillicons.dev)  
-**Experience with:** ASP.NET, Entity Framework
 
 ### Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman&perline=4)](https://skillicons.dev)
